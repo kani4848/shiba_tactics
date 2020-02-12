@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{41F9554F-5178-CC14-7AFB-BA2446966C8E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Script/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Resources/Script/Novel/TextureresourceManager.cs" Line="20" Column="24" />
+      <File FileName="Assets/Resources/Scenario/encountEnemy.txt" Line="2" Column="36" />
+      <File FileName="Assets/Resources/Script/Novel/ScenarioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/Novel/TextController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/battle/TroopCreator.cs" Line="8" Column="46" />
+      <File FileName="Assets/Resources/Image/novelKnight1.txt" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/battle/UIManager.cs" Line="21" Column="28" />
+      <File FileName="Assets/Resources/Script/Field/FieldUnitParam.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/Field/fieldPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/Field/FieldManager.cs" Line="16" Column="31" />
+      <File FileName="Assets/Resources/Script/GameManager.cs" Line="17" Column="18" />
+      <File FileName="Assets/Resources/Script/SingletonMonoBehaviourFast.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/Field/fieldCameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/Novel/ICommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/Novel/CommandController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/Novel/Layer.cs" Line="8" Column="30" />
+      <File FileName="Assets/Resources/Script/Novel/Commands/CommandUpdateImage.cs" Line="26" Column="2" />
+      <File FileName="Assets/Resources/Script/Novel/Commands/CommandGetWord.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Script/Field/FieldPlaceParam.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
